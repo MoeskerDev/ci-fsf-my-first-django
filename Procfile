@@ -1,1 +1,1 @@
-web: gunicorn my-first-django_django_first.wsgi:application
+web: gunicorn ci-fsf-my-first-django_django_first.wsgi:application
